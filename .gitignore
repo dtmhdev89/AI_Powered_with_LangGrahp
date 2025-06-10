@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/.DS_Store
+*/.DS_Store
+*.DS_Store
+/basic_samples/MCP_With_LangGraph/.DS_Store
+*/construction_with_llms/src/data_sources
